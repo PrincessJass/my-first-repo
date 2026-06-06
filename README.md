@@ -1,1 +1,2 @@
-﻿My name is Opoku Blessing Fremah. I am a student at GCTU studying Computer Science.
+﻿## About Me
+My name is Opoku Blessing Fremah. I am a student at GCTU studying Computer Science.
